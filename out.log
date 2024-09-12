@@ -1,0 +1,1854 @@
+Starting Spanning Tree Construction
+Batch 0: 0 to 3
+Number of elements in batch: 3
+Printing from hooking function:
+nodes: 10, edges: 3
+rep array:
+Edges input to hooking: 
+0: 3 4
+1: 3 5
+2: 4 6
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+initial values:
+Rep array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 3
+Array[4] = 4
+Array[5] = 5
+Array[6] = 6
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Components array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 3
+Array[4] = 4
+Array[5] = 5
+Array[6] = 6
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Selected Edges array:
+0: 0 2147483647
+1: 0 2147483647
+2: 0 2147483647
+3: 0 2147483647
+4: 0 2147483647
+5: 0 2147483647
+6: 0 2147483647
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing for 0 iteration.
+Rep array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 6
+Array[4] = 6
+Array[5] = 5
+Array[6] = 6
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Components array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 5
+Array[6] = 6
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Selected Edges array:
+0: 0 2147483647
+1: 0 2147483647
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 0 2147483647
+6: 0 2147483647
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing for 0 iteration.
+Rep array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 5
+Array[4] = 5
+Array[5] = 5
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Components array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 5
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Selected Edges array:
+0: 0 2147483647
+1: 0 2147483647
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 0 2147483647
+6: 3 5
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing for 0 iteration.
+Rep array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 5
+Array[4] = 5
+Array[5] = 5
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Components array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 5
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Selected Edges array:
+0: 0 2147483647
+1: 0 2147483647
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 0 2147483647
+6: 3 5
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing Final Rep array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 5
+Array[4] = 5
+Array[5] = 5
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+
+Printing spanning tree edges:
+0: 0 2147483647
+1: 0 2147483647
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 0 2147483647
+6: 3 5
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Batch 1: 3 to 6
+Number of elements in batch: 3
+Printing from hooking function:
+nodes: 10, edges: 3
+rep array:
+Edges input to hooking: 
+0: 5 7
+1: 6 7
+2: 0 7
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+initial values:
+Rep array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 5
+Array[4] = 5
+Array[5] = 5
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Components array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 5
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Selected Edges array:
+0: 0 2147483647
+1: 0 2147483647
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 0 2147483647
+6: 3 5
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing for 0 iteration.
+Rep array:
+Array[0] = 7
+Array[1] = 1
+Array[2] = 2
+Array[3] = 7
+Array[4] = 7
+Array[5] = 7
+Array[6] = 7
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Components array:
+Array[0] = 7
+Array[1] = 1
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 7
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Selected Edges array:
+0: 0 7
+1: 0 2147483647
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing for 0 iteration.
+Rep array:
+Array[0] = 7
+Array[1] = 1
+Array[2] = 2
+Array[3] = 7
+Array[4] = 7
+Array[5] = 7
+Array[6] = 7
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Components array:
+Array[0] = 7
+Array[1] = 1
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 7
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Selected Edges array:
+0: 0 7
+1: 0 2147483647
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing Final Rep array:
+Array[0] = 7
+Array[1] = 1
+Array[2] = 2
+Array[3] = 7
+Array[4] = 7
+Array[5] = 7
+Array[6] = 7
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+
+Printing spanning tree edges:
+0: 0 7
+1: 0 2147483647
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Batch 2: 6 to 9
+Number of elements in batch: 3
+Printing from hooking function:
+nodes: 10, edges: 3
+rep array:
+Edges input to hooking: 
+0: 0 1
+1: 1 2
+2: 1 8
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+initial values:
+Rep array:
+Array[0] = 7
+Array[1] = 1
+Array[2] = 2
+Array[3] = 7
+Array[4] = 7
+Array[5] = 7
+Array[6] = 7
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Components array:
+Array[0] = 7
+Array[1] = 1
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 7
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Selected Edges array:
+0: 0 7
+1: 0 2147483647
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing for 0 iteration.
+Rep array:
+Array[0] = 7
+Array[1] = 7
+Array[2] = 2
+Array[3] = 7
+Array[4] = 7
+Array[5] = 7
+Array[6] = 7
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Components array:
+Array[0] = 7
+Array[1] = 7
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 7
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Selected Edges array:
+0: 0 7
+1: 0 1
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing for 0 iteration.
+Rep array:
+Array[0] = 2
+Array[1] = 2
+Array[2] = 2
+Array[3] = 2
+Array[4] = 2
+Array[5] = 2
+Array[6] = 2
+Array[7] = 2
+Array[8] = 2
+Array[9] = 9
+
+Components array:
+Array[0] = 7
+Array[1] = 7
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 7
+Array[6] = 5
+Array[7] = 2
+Array[8] = 7
+Array[9] = 9
+
+Selected Edges array:
+0: 0 7
+1: 0 1
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 1 2
+8: 1 8
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing for 0 iteration.
+Rep array:
+Array[0] = 2
+Array[1] = 2
+Array[2] = 2
+Array[3] = 2
+Array[4] = 2
+Array[5] = 2
+Array[6] = 2
+Array[7] = 2
+Array[8] = 2
+Array[9] = 9
+
+Components array:
+Array[0] = 7
+Array[1] = 7
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 7
+Array[6] = 5
+Array[7] = 2
+Array[8] = 7
+Array[9] = 9
+
+Selected Edges array:
+0: 0 7
+1: 0 1
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 1 2
+8: 1 8
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing Final Rep array:
+Array[0] = 2
+Array[1] = 2
+Array[2] = 2
+Array[3] = 2
+Array[4] = 2
+Array[5] = 2
+Array[6] = 2
+Array[7] = 2
+Array[8] = 2
+Array[9] = 9
+
+
+Printing spanning tree edges:
+0: 0 7
+1: 0 1
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 1 2
+8: 1 8
+9: 0 2147483647
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Batch 3: 9 to 11
+Number of elements in batch: 2
+Printing from hooking function:
+nodes: 10, edges: 2
+rep array:
+Edges input to hooking: 
+0: 2 8
+1: 8 9
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+initial values:
+Rep array:
+Array[0] = 2
+Array[1] = 2
+Array[2] = 2
+Array[3] = 2
+Array[4] = 2
+Array[5] = 2
+Array[6] = 2
+Array[7] = 2
+Array[8] = 2
+Array[9] = 9
+
+Components array:
+Array[0] = 7
+Array[1] = 7
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 7
+Array[6] = 5
+Array[7] = 2
+Array[8] = 7
+Array[9] = 9
+
+Selected Edges array:
+0: 0 7
+1: 0 1
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 1 2
+8: 1 8
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing for 0 iteration.
+Rep array:
+Array[0] = 9
+Array[1] = 9
+Array[2] = 9
+Array[3] = 9
+Array[4] = 9
+Array[5] = 9
+Array[6] = 9
+Array[7] = 9
+Array[8] = 9
+Array[9] = 9
+
+Components array:
+Array[0] = 7
+Array[1] = 7
+Array[2] = 9
+Array[3] = 4
+Array[4] = 6
+Array[5] = 7
+Array[6] = 5
+Array[7] = 2
+Array[8] = 7
+Array[9] = 9
+
+Selected Edges array:
+0: 0 7
+1: 0 1
+2: 8 9
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 1 2
+8: 1 8
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing for 0 iteration.
+Rep array:
+Array[0] = 9
+Array[1] = 9
+Array[2] = 9
+Array[3] = 9
+Array[4] = 9
+Array[5] = 9
+Array[6] = 9
+Array[7] = 9
+Array[8] = 9
+Array[9] = 9
+
+Components array:
+Array[0] = 7
+Array[1] = 7
+Array[2] = 9
+Array[3] = 4
+Array[4] = 6
+Array[5] = 7
+Array[6] = 5
+Array[7] = 2
+Array[8] = 7
+Array[9] = 9
+
+Selected Edges array:
+0: 0 7
+1: 0 1
+2: 8 9
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 1 2
+8: 1 8
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing Final Rep array:
+Array[0] = 9
+Array[1] = 9
+Array[2] = 9
+Array[3] = 9
+Array[4] = 9
+Array[5] = 9
+Array[6] = 9
+Array[7] = 9
+Array[8] = 9
+Array[9] = 9
+
+
+Printing spanning tree edges:
+0: 0 7
+1: 0 1
+2: 8 9
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 1 2
+8: 1 8
+9: 0 2147483647
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Root Value: 9
+Index array:
+arr[0]= 1
+arr[1]= 0
+arr[2]= 10
+arr[3]= 7
+arr[4]= 8
+arr[5]= 16
+arr[6]= 3
+arr[7]= 6
+arr[8]= 12
+arr[9]= 4
+arr[10]= 15
+arr[11]= 5
+arr[12]= 13
+arr[13]= 9
+arr[14]= 14
+arr[15]= 17
+arr[16]= 2
+arr[17]= 11
+
+Sorted Edges:
+0: (0, 1)
+1: (0, 7)
+2: (1, 0)
+3: (1, 2)
+4: (1, 8)
+5: (2, 1)
+6: (3, 4)
+7: (3, 5)
+8: (4, 3)
+9: (4, 6)
+10: (5, 3)
+11: (5, 7)
+12: (6, 4)
+13: (7, 0)
+14: (7, 5)
+15: (8, 1)
+16: (8, 9)
+17: (9, 8)
+d_first array:
+arr[0]= 1
+arr[1]= 10
+arr[2]= 16
+arr[3]= 3
+arr[4]= 12
+arr[5]= 15
+arr[6]= 13
+arr[7]= 9
+arr[8]= 17
+arr[9]= 11
+
+d_last array:
+arr[0]= 0
+arr[1]= 8
+arr[2]= 16
+arr[3]= 6
+arr[4]= 4
+arr[5]= 5
+arr[6]= 13
+arr[7]= 14
+arr[8]= 2
+arr[9]= 11
+
+d_next array:
+arr[0]= -1
+arr[1]= 0
+arr[2]= -1
+arr[3]= 6
+arr[4]= -1
+arr[5]= -1
+arr[6]= -1
+arr[7]= 8
+arr[8]= -1
+arr[9]= 14
+arr[10]= 7
+arr[11]= -1
+arr[12]= 4
+arr[13]= -1
+arr[14]= -1
+arr[15]= 5
+arr[16]= -1
+arr[17]= 2
+
+successor array:
+arr[0]= 14
+arr[1]= 7
+arr[2]= -1
+arr[3]= 4
+arr[4]= 13
+arr[5]= 9
+arr[6]= 5
+arr[7]= 16
+arr[8]= 2
+arr[9]= 1
+arr[10]= 0
+arr[11]= 17
+arr[12]= 6
+arr[13]= 12
+arr[14]= 15
+arr[15]= 3
+arr[16]= 8
+arr[17]= 10
+
+euler Path array:
+arr[0]= 14
+arr[1]= 4
+arr[2]= 0
+arr[3]= 11
+arr[4]= 10
+arr[5]= 6
+arr[6]= 7
+arr[7]= 3
+arr[8]= 1
+arr[9]= 5
+arr[10]= 15
+arr[11]= 17
+arr[12]= 8
+arr[13]= 9
+arr[14]= 13
+arr[15]= 12
+arr[16]= 2
+arr[17]= 16
+
+Parent array:
+arr[0]= 1
+arr[1]= 8
+arr[2]= 1
+arr[3]= 5
+arr[4]= 3
+arr[5]= 7
+arr[6]= 4
+arr[7]= 0
+arr[8]= 9
+arr[9]= 9
+
+Spanning Tree construction took: 36.916 ms.
+Printing from main function:
+3 4
+3 5
+4 6
+5 7
+6 7
+0 7
+0 1
+1 2
+1 8
+2 8
+8 9
+Starting Spanning Tree Constuction
+Batch 0: 0 to 3
+Number of elements in batch: 3
+Printing from hooking function:
+nodes: 10, edges: 3
+rep array:
+Edges input to hooking: 
+0: 3 4
+1: 3 5
+2: 4 6
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+initial values:
+Rep array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 3
+Array[4] = 4
+Array[5] = 5
+Array[6] = 6
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Components array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 3
+Array[4] = 4
+Array[5] = 5
+Array[6] = 6
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Selected Edges array:
+0: 0 2147483647
+1: 0 2147483647
+2: 0 2147483647
+3: 0 2147483647
+4: 0 2147483647
+5: 0 2147483647
+6: 0 2147483647
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing for 0 iteration.
+Rep array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 6
+Array[4] = 6
+Array[5] = 5
+Array[6] = 6
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Components array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 5
+Array[6] = 6
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Selected Edges array:
+0: 0 2147483647
+1: 0 2147483647
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 0 2147483647
+6: 0 2147483647
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing for 0 iteration.
+Rep array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 5
+Array[4] = 5
+Array[5] = 5
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Components array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 5
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Selected Edges array:
+0: 0 2147483647
+1: 0 2147483647
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 0 2147483647
+6: 3 5
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing for 0 iteration.
+Rep array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 5
+Array[4] = 5
+Array[5] = 5
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Components array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 5
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Selected Edges array:
+0: 0 2147483647
+1: 0 2147483647
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 0 2147483647
+6: 3 5
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing Final Rep array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 5
+Array[4] = 5
+Array[5] = 5
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+
+Printing spanning tree edges:
+0: 0 2147483647
+1: 0 2147483647
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 0 2147483647
+6: 3 5
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Batch 1: 3 to 6
+Number of elements in batch: 3
+Printing from hooking function:
+nodes: 10, edges: 3
+rep array:
+Edges input to hooking: 
+0: 5 7
+1: 6 7
+2: 0 7
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+initial values:
+Rep array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 5
+Array[4] = 5
+Array[5] = 5
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Components array:
+Array[0] = 0
+Array[1] = 1
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 5
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Selected Edges array:
+0: 0 2147483647
+1: 0 2147483647
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 0 2147483647
+6: 3 5
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing for 0 iteration.
+Rep array:
+Array[0] = 7
+Array[1] = 1
+Array[2] = 2
+Array[3] = 7
+Array[4] = 7
+Array[5] = 7
+Array[6] = 7
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Components array:
+Array[0] = 7
+Array[1] = 1
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 7
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Selected Edges array:
+0: 0 7
+1: 0 2147483647
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing for 0 iteration.
+Rep array:
+Array[0] = 7
+Array[1] = 1
+Array[2] = 2
+Array[3] = 7
+Array[4] = 7
+Array[5] = 7
+Array[6] = 7
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Components array:
+Array[0] = 7
+Array[1] = 1
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 7
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Selected Edges array:
+0: 0 7
+1: 0 2147483647
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing Final Rep array:
+Array[0] = 7
+Array[1] = 1
+Array[2] = 2
+Array[3] = 7
+Array[4] = 7
+Array[5] = 7
+Array[6] = 7
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+
+Printing spanning tree edges:
+0: 0 7
+1: 0 2147483647
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Batch 2: 6 to 9
+Number of elements in batch: 3
+Printing from hooking function:
+nodes: 10, edges: 3
+rep array:
+Edges input to hooking: 
+0: 0 1
+1: 1 2
+2: 1 8
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+initial values:
+Rep array:
+Array[0] = 7
+Array[1] = 1
+Array[2] = 2
+Array[3] = 7
+Array[4] = 7
+Array[5] = 7
+Array[6] = 7
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Components array:
+Array[0] = 7
+Array[1] = 1
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 7
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Selected Edges array:
+0: 0 7
+1: 0 2147483647
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing for 0 iteration.
+Rep array:
+Array[0] = 7
+Array[1] = 7
+Array[2] = 2
+Array[3] = 7
+Array[4] = 7
+Array[5] = 7
+Array[6] = 7
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Components array:
+Array[0] = 7
+Array[1] = 7
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 7
+Array[6] = 5
+Array[7] = 7
+Array[8] = 8
+Array[9] = 9
+
+Selected Edges array:
+0: 0 7
+1: 0 1
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 0 2147483647
+8: 0 2147483647
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing for 0 iteration.
+Rep array:
+Array[0] = 2
+Array[1] = 2
+Array[2] = 2
+Array[3] = 2
+Array[4] = 2
+Array[5] = 2
+Array[6] = 2
+Array[7] = 2
+Array[8] = 2
+Array[9] = 9
+
+Components array:
+Array[0] = 7
+Array[1] = 7
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 7
+Array[6] = 5
+Array[7] = 2
+Array[8] = 7
+Array[9] = 9
+
+Selected Edges array:
+0: 0 7
+1: 0 1
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 1 2
+8: 1 8
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing for 0 iteration.
+Rep array:
+Array[0] = 2
+Array[1] = 2
+Array[2] = 2
+Array[3] = 2
+Array[4] = 2
+Array[5] = 2
+Array[6] = 2
+Array[7] = 2
+Array[8] = 2
+Array[9] = 9
+
+Components array:
+Array[0] = 7
+Array[1] = 7
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 7
+Array[6] = 5
+Array[7] = 2
+Array[8] = 7
+Array[9] = 9
+
+Selected Edges array:
+0: 0 7
+1: 0 1
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 1 2
+8: 1 8
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing Final Rep array:
+Array[0] = 2
+Array[1] = 2
+Array[2] = 2
+Array[3] = 2
+Array[4] = 2
+Array[5] = 2
+Array[6] = 2
+Array[7] = 2
+Array[8] = 2
+Array[9] = 9
+
+
+Printing spanning tree edges:
+0: 0 7
+1: 0 1
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 1 2
+8: 1 8
+9: 0 2147483647
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Batch 3: 9 to 11
+Number of elements in batch: 2
+Printing from hooking function:
+nodes: 10, edges: 2
+rep array:
+Edges input to hooking: 
+0: 2 8
+1: 8 9
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+initial values:
+Rep array:
+Array[0] = 2
+Array[1] = 2
+Array[2] = 2
+Array[3] = 2
+Array[4] = 2
+Array[5] = 2
+Array[6] = 2
+Array[7] = 2
+Array[8] = 2
+Array[9] = 9
+
+Components array:
+Array[0] = 7
+Array[1] = 7
+Array[2] = 2
+Array[3] = 4
+Array[4] = 6
+Array[5] = 7
+Array[6] = 5
+Array[7] = 2
+Array[8] = 7
+Array[9] = 9
+
+Selected Edges array:
+0: 0 7
+1: 0 1
+2: 0 2147483647
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 1 2
+8: 1 8
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing for 0 iteration.
+Rep array:
+Array[0] = 9
+Array[1] = 9
+Array[2] = 9
+Array[3] = 9
+Array[4] = 9
+Array[5] = 9
+Array[6] = 9
+Array[7] = 9
+Array[8] = 9
+Array[9] = 9
+
+Components array:
+Array[0] = 7
+Array[1] = 7
+Array[2] = 9
+Array[3] = 4
+Array[4] = 6
+Array[5] = 7
+Array[6] = 5
+Array[7] = 2
+Array[8] = 7
+Array[9] = 9
+
+Selected Edges array:
+0: 0 7
+1: 0 1
+2: 8 9
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 1 2
+8: 1 8
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing for 0 iteration.
+Rep array:
+Array[0] = 9
+Array[1] = 9
+Array[2] = 9
+Array[3] = 9
+Array[4] = 9
+Array[5] = 9
+Array[6] = 9
+Array[7] = 9
+Array[8] = 9
+Array[9] = 9
+
+Components array:
+Array[0] = 7
+Array[1] = 7
+Array[2] = 9
+Array[3] = 4
+Array[4] = 6
+Array[5] = 7
+Array[6] = 5
+Array[7] = 2
+Array[8] = 7
+Array[9] = 9
+
+Selected Edges array:
+0: 0 7
+1: 0 1
+2: 8 9
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 1 2
+8: 1 8
+9: 0 2147483647
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Printing Final Rep array:
+Array[0] = 9
+Array[1] = 9
+Array[2] = 9
+Array[3] = 9
+Array[4] = 9
+Array[5] = 9
+Array[6] = 9
+Array[7] = 9
+Array[8] = 9
+Array[9] = 9
+
+
+Printing spanning tree edges:
+0: 0 7
+1: 0 1
+2: 8 9
+3: 3 4
+4: 4 6
+5: 5 7
+6: 3 5
+7: 1 2
+8: 1 8
+9: 0 2147483647
+
+
+
+-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_-_
+
+Root Value: 9
+Index array:
+arr[0]= 1
+arr[1]= 0
+arr[2]= 10
+arr[3]= 7
+arr[4]= 8
+arr[5]= 16
+arr[6]= 3
+arr[7]= 6
+arr[8]= 12
+arr[9]= 4
+arr[10]= 15
+arr[11]= 5
+arr[12]= 13
+arr[13]= 9
+arr[14]= 14
+arr[15]= 17
+arr[16]= 2
+arr[17]= 11
+
+Sorted Edges:
+0: (0, 1)
+1: (0, 7)
+2: (1, 0)
+3: (1, 2)
+4: (1, 8)
+5: (2, 1)
+6: (3, 4)
+7: (3, 5)
+8: (4, 3)
+9: (4, 6)
+10: (5, 3)
+11: (5, 7)
+12: (6, 4)
+13: (7, 0)
+14: (7, 5)
+15: (8, 1)
+16: (8, 9)
+17: (9, 8)
+d_first array:
+arr[0]= 1
+arr[1]= 10
+arr[2]= 16
+arr[3]= 3
+arr[4]= 12
+arr[5]= 15
+arr[6]= 13
+arr[7]= 9
+arr[8]= 17
+arr[9]= 11
+
+d_last array:
+arr[0]= 0
+arr[1]= 8
+arr[2]= 16
+arr[3]= 6
+arr[4]= 4
+arr[5]= 5
+arr[6]= 13
+arr[7]= 14
+arr[8]= 2
+arr[9]= 11
+
+d_next array:
+arr[0]= -1
+arr[1]= 0
+arr[2]= -1
+arr[3]= 6
+arr[4]= -1
+arr[5]= -1
+arr[6]= -1
+arr[7]= 8
+arr[8]= -1
+arr[9]= 14
+arr[10]= 7
+arr[11]= -1
+arr[12]= 4
+arr[13]= -1
+arr[14]= -1
+arr[15]= 5
+arr[16]= -1
+arr[17]= 2
+
+successor array:
+arr[0]= 14
+arr[1]= 7
+arr[2]= -1
+arr[3]= 4
+arr[4]= 13
+arr[5]= 9
+arr[6]= 5
+arr[7]= 16
+arr[8]= 2
+arr[9]= 1
+arr[10]= 0
+arr[11]= 17
+arr[12]= 6
+arr[13]= 12
+arr[14]= 15
+arr[15]= 3
+arr[16]= 8
+arr[17]= 10
+
+euler Path array:
+arr[0]= 14
+arr[1]= 4
+arr[2]= 0
+arr[3]= 11
+arr[4]= 10
+arr[5]= 6
+arr[6]= 7
+arr[7]= 3
+arr[8]= 1
+arr[9]= 5
+arr[10]= 15
+arr[11]= 17
+arr[12]= 8
+arr[13]= 9
+arr[14]= 13
+arr[15]= 12
+arr[16]= 2
+arr[17]= 16
+
+Parent array:
+arr[0]= 1
+arr[1]= 8
+arr[2]= 1
+arr[3]= 5
+arr[4]= 3
+arr[5]= 7
+arr[6]= 4
+arr[7]= 0
+arr[8]= 9
+arr[9]= 9
+
+Spanning Tree construction took: 33.5288 ms.

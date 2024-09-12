@@ -1,0 +1,76 @@
+Starting com-Friendster Spanning Tree Constuction
+Doing for 0 th round.
+Doing for 1 th round.
+Doing for 2 th round.
+Doing for 3 th round.
+Doing for 4 th round.
+Root Value: 65256205
+Spanning Tree construction took: 3253.96 ms.
+
+Starting GAP-kron.txt Spanning Tree Constuction
+Doing for 0 th round.
+Doing for 1 th round.
+Doing for 2 th round.
+Doing for 3 th round.
+Doing for 4 th round.
+Doing for 5 th round.
+Root Value: 133826952
+Spanning Tree construction took: 4035.69 ms.
+
+Starting GAP-twitter.txt Spanning Tree Constuction
+Doing for 0 th round.
+Doing for 1 th round.
+Doing for 2 th round.
+Doing for 3 th round.
+Root Value: 60928884
+Spanning Tree construction took: 1765.3 ms.
+
+Starting GAP-urand.txt Spanning Tree Constuction
+Doing for 0 th round.
+Doing for 1 th round.
+Doing for 2 th round.
+Doing for 3 th round.
+Doing for 4 th round.
+Doing for 5 th round.
+Root Value: 130940301
+Spanning Tree construction took: 2773.86 ms.
+
+Starting GAP-web.txt Spanning Tree Constuction
+Doing for 0 th round.
+Doing for 1 th round.
+Doing for 2 th round.
+Doing for 3 th round.
+Doing for 4 th round.
+Root Value: 50038785
+Spanning Tree construction took: 508.524 ms.
+
+Starting it-2004.txt Spanning Tree Constuction
+Doing for 0 th round.
+Doing for 1 th round.
+Doing for 2 th round.
+Root Value: 39417064
+Spanning Tree construction took: 325.933 ms.
+
+Starting sk-2005.txt Spanning Tree Constuction
+Doing for 0 th round.
+Doing for 1 th round.
+Doing for 2 th round.
+Doing for 3 th round.
+Doing for 4 th round.
+Root Value: 50631114
+Spanning Tree construction took: 582.618 ms.
+
+Starting twitter7.txt Spanning Tree Constuction
+Doing for 0 th round.
+Doing for 1 th round.
+Doing for 2 th round.
+Doing for 3 th round.
+Root Value: 41457284
+Spanning Tree construction took: 1569.79 ms.
+
+Starting webbase-2001.txt Spanning Tree Constuction
+Doing for 0 th round.
+Doing for 1 th round.
+Doing for 2 th round.
+Root Value: 115493821
+Spanning Tree construction took: 566.907 ms.
